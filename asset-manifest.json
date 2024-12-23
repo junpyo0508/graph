@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/graph/static/css/main.4a8d4a81.css",
+    "main.js": "/graph/static/js/main.511019de.js",
+    "static/js/453.89a6e67b.chunk.js": "/graph/static/js/453.89a6e67b.chunk.js",
+    "static/media/SpoqaHanSansNeo-Regular.woff": "/graph/static/media/SpoqaHanSansNeo-Regular.4af655e2b88a518cc85c.woff",
+    "static/media/Kokila Bold.ttf": "/graph/static/media/Kokila Bold.2b7504ffac578bac184b.ttf",
+    "static/media/image.jpg": "/graph/static/media/image.c93b7504c285f78e5792.jpg",
+    "index.html": "/graph/index.html",
+    "main.4a8d4a81.css.map": "/graph/static/css/main.4a8d4a81.css.map",
+    "main.511019de.js.map": "/graph/static/js/main.511019de.js.map",
+    "453.89a6e67b.chunk.js.map": "/graph/static/js/453.89a6e67b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8d4a81.css",
+    "static/js/main.511019de.js"
+  ]
+}
